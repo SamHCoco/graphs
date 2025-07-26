@@ -1,4 +1,4 @@
-package com.samhcoco.graphs.graphs.bfs;
+package com.samhcoco.graphs.graphs.traversal.bfs;
 
 import java.util.*;
 

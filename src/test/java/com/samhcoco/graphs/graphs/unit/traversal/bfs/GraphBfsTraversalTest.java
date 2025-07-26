@@ -1,7 +1,7 @@
-package com.samhcoco.graphs.graphs.unit;
+package com.samhcoco.graphs.graphs.unit.traversal.bfs;
 
 
-import com.samhcoco.graphs.graphs.bfs.GraphBfsTraversal;
+import com.samhcoco.graphs.graphs.traversal.bfs.GraphBfsTraversal;
 import org.junit.jupiter.api.Test;
 
 import java.util.Arrays;
